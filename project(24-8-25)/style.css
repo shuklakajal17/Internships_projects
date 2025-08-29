@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(37, 51, 109);
+}
+h1{
+    background-color: white;
+    color: black;
+    margin: 50px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+h2{
+ background-color: white;
+    color: black;
+    margin-left: 20px;
+    margin-right: 450px;
+    border-radius: 10px;
+    padding-left: 10px;
+}   
+p{
+    color: antiquewhite;
+}
+a{
+    color: burlywood;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
